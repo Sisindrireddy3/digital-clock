@@ -34,4 +34,4 @@
 
 * Applied condition for the Hours, Minutes and Seconds when they are less than 10 add Zero before if it has two digits leave the space before with empty.
 
-<img src="output/Digitalclock.png">
+
